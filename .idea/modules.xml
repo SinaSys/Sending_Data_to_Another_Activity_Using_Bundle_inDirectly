@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sending_Data_to_Another_Activity_Using_Bundle_inDirectly.iml" filepath="$PROJECT_DIR$/Sending_Data_to_Another_Activity_Using_Bundle_inDirectly.iml" group="Sending_Data_to_Another_Activity_Using_Bundle_inDirectly" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Sending_Data_to_Another_Activity_Using_Bundle_inDirectly/app" />
+    </modules>
+  </component>
+</project>
